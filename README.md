@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roohi31&label=Profile%20views&color=0e75b6&style=flat" alt="roohi31" /> </p>
 
-- 🌱 I’m currently learning **Java Full-Stack and Android Application Development.**
+- 🌱 I’m currently learning **Java FullStack and Android Application Development.**
 
 - 📫 How to reach me **roohi.saba31@gmail.com**
 
